@@ -13,6 +13,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="publish.ico" Type="Document" URL="/C/Users/HP/Downloads/publish.ico"/>
 		<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
+		<Item Name="TickCount.vi" Type="VI" URL="../../TickCount.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
